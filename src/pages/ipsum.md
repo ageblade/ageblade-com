@@ -1,9 +1,9 @@
 ---
-title: Ipsum dolor sit amet
-subtitle: Aliquam lobortis faucibus blandit
+title: Contact
+subtitle: How you can reach me out
 menus:
   main:
-    title: Ipsum
+    title: Contact
     weight: 4
 template: page
 ---

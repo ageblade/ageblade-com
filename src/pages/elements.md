@@ -1,9 +1,9 @@
 ---
-title: UI Kit
-subtitle: Vanilla styleguide.
+title: Blog
+subtitle: Some of my thoughts about software and peopleware
 menus:
   main:
-    title: Elements
+    title: Blog
     weight: 3
 template: page
 ---
